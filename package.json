@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JYL-LU/Employee--racker.git"
+    "url": "git+https://github.com/JYL-LU/Employee-Tracker.git"
   },
   "keywords": [
     "library"
@@ -23,7 +23,7 @@
   "author": "Jane Lu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JYL-LU/Employee--racker/issues"
+    "url": "https://github.com/JYL-LU/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/JYL-LU/Employee--racker#readme"
+  "homepage": "https://github.com/JYL-LU/Employee-Tracker#readme"
 }
