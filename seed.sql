@@ -17,10 +17,10 @@ VALUES
 
 INSERT INTO employees (first_name, last_name, role_id, manager_id)
 VALUES 
-("Black", "Widow", 1, 123),
-("Iron", "Man", 2, 456),
-("Captain", "America", 3, 789),
-("Doctor", "Strange", 4, 234),
-("Green", "Hulk", 5, 345),
+("Black", "Widow", 111, 123),
+("Iron", "Man", 222, 456),
+("Captain", "America", 333, 789),
+("Doctor", "Strange", 444, 234),
+("Green", "Hulk", 555, 345),
 
 
