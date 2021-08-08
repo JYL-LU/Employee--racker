@@ -161,7 +161,13 @@ function addEmployee() {
       {
         type: "input",
         name: "role_id",
-        message: "What is the eomployee's role_id?",
+        message: "What is the employee's role_id?",
+      },
+
+      {
+        type: "input",
+        name: "manager_id",
+        message: "What is the id of the employee's manager?",
       },
     ])
 
@@ -172,6 +178,7 @@ function addEmployee() {
           first_name: response.first_name,
           last_name: response.last_name,
           role_id: response.role_id,
+          manager_id: response.manager_id,
         },
         function (err) {
           if (err) throw err;
