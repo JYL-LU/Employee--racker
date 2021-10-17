@@ -14,7 +14,11 @@
 
 video walkthrough:
 
+https://watch.screencastify.com/v/ITdDg4wSb6YUYDGRlTY7
+
 screenshot:
+
+![Employee Tracker](https://user-images.githubusercontent.com/82979870/137646869-bd5bae90-aa8c-4d9e-b901-9107f8982338.png)
 
 ## Description
 
@@ -26,7 +30,7 @@ Install NPM to acquire inquirer package
 
 ## Usage
 
-Open your ternimal, find the correct directory and type node server.js. The users may answer the questions in order to generate an employee tracker.
+Open your ternimal, find the correct directory and type node server.js.
 
 ## License
 
