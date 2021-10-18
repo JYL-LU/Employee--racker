@@ -14,7 +14,7 @@
 
 video walkthrough:
 
-https://watch.screencastify.com/v/ITdDg4wSb6YUYDGRlTY7
+https://watch.screencastify.com/v/j9OCkzhkH0rzjzmGFJFc
 
 screenshot:
 
